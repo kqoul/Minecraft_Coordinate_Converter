@@ -159,6 +159,7 @@ venv.bak/
 build/
 .venv/
 *.spec
+dist/
 
 # Spyder project settings
 .spyderproject
