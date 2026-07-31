@@ -68,4 +68,4 @@ V2.5
 
 / AUTHOR /
 
-Created my Ihatekqoul with love!
+Created by Ihatekqoul with love!
