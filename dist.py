@@ -12,6 +12,7 @@ def distance():
         time.sleep(3)
         result = d1_input_helper - d2_input_helper
         print("the distance is:", result,"blocks")
+        time.sleep(2)
         return
     except ValueError:
         print("Invalid Syntax")

@@ -15,6 +15,7 @@ def overworld_to_nether():
         result_y = overworld_input_helper_y/8
         print("X result is",result_x)
         print("Y result is",result_y)
+        time.sleep(2)
     except ValueError:
         print("Invalid Syntax!")
 
@@ -33,5 +34,6 @@ def nether_to_overworld():
            result_y = nether_input_helper_y*8
            print("X result is",result_x)
            print("Y result is",result_y)
+           time.sleep(2)
      except ValueError:
            print("Invalid Syntax!")
