@@ -2,6 +2,9 @@
 ===================================
 / Minecraft Conversion Calculator /
 ===================================
+
+V1.1
+
 -This is a CLI program that runs on the terminal via python 3, it uses basic math functions to calculate Minecraft coordinates in vairous ways such as accross dimenrsions or distance between one another
 
 ![image](assets/Screenshot_1.png)
