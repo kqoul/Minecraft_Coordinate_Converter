@@ -33,7 +33,7 @@
 -Clone this repo:
 
 
-"#git repo isnt made yet#"
+"gh repo clone kqoul/Minecraft_Coordinate_Converter"
 
 
 -Run main.py using python
